@@ -1,6 +1,6 @@
-### Hi, I am Thomas. 👋
+### Hi. 👋
 
-I am a senior web & blockchain developer.
+I am a Senior Full-Stack Engineer.
 I have over 9 years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
