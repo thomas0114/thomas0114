@@ -3,12 +3,12 @@
 I am a Senior Web & Blockchain Full-Stack Engineer.
 I have over 9 years of experience in web & blockchain technology development and IT consult.
 
-Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
-back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+Over 10 years of experience in website, web apps, blockchain, and software development.
+Before, I have worked in several teams of companies for a long time under Agile/Scrum methodology, so I know how to communicate and work efficiently.
+I love working independently. I can control the timeline, I can focus, and I can be sure the work is done well.
+But I also love working in groups because many brains are better than one.
+Thus, I am very comfortable both collaborating as a team member and working as an individual.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
